@@ -63,3 +63,11 @@ To view and use the Add-on, press n with the cursor in 3D viewport or left click
 An add-on named "Sphere Plugin" will be added along with the other options (View, Tool, Item) in the Viewport Sidebar as shown below.
 
 ![App Screenshot](https://github.com/rajdeepadak/Blender-Sphere-Plugin/blob/master/Images/addon.png)
+
+## Tutorials
+
+To view video tutorials: 
+
+https://user-images.githubusercontent.com/65621480/185776184-b63a5a14-16f7-408e-ad80-78dfd013cc08.mp4
+
+Check [Read Tutorial]() for more info.
