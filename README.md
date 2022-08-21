@@ -1,9 +1,9 @@
 
 # Blender-Sphere-Plugin
 
-A Blender Addon created for submission to FOSSEE's IITB Semester Long Internship 2021
+A Blender Addon created for submission to [FOSSEE's IITB Semester Long Internship 2021](https://fossee.in/semester-internship/2021)
 
-##Task Description:
+## Task Description:
 
 Create a Blender Add-On/Plugin that contains 3 'feature sets'. 
 Each feature set builds on top of it's feature set and progresses 
@@ -70,4 +70,4 @@ To view video tutorials:
 
 https://user-images.githubusercontent.com/65621480/185776184-b63a5a14-16f7-408e-ad80-78dfd013cc08.mp4
 
-Check [Read Tutorial]() for more info.
+Check [Read Tutorial](https://github.com/rajdeepadak/Blender-Sphere-Plugin/blob/master/tutorials/tutorial_readme.md) for more info.
