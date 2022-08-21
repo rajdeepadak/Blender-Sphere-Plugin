@@ -1,17 +1,15 @@
 
-# FOSSEE-2021-Blender-Python-Screening-Task
+# Blender-Sphere-Plugin
 
 A Blender Addon created for submission to FOSSEE's IITB Semester Long Internship 2021
 
-Task Description:
+##Task Description:
 
 Create a Blender Add-On/Plugin that contains 3 'feature sets'. 
 Each feature set builds on top of it's feature set and progresses 
 in difficulty level
 
 Following are expectations on the 3 feature sets:
-
-
 
 ## Feature Sets
 
@@ -35,12 +33,16 @@ Following are expectations on the 3 feature sets:
     the surface of the sphere.
 -   Clicking on a new 'Change' button should delete the selected 
     vertices or display them in a different colour.
+    
 ## Installation
+
+### Compatibility
+Compatible with Blender versions: 2.83, 2.91, 2.93. Download preferred Blender version from [Blender Downloads](https://download.blender.org/release/)
 
 Download/clone this repository into Blender's addon system path.
 
 ```bash
-  git clone github.com/rajdeepadak/spheres
+  https://github.com/rajdeepadak/Blender-Sphere-Plugin.git
 ```
 
 if you are unaware of Blender's addon system path run the following command
@@ -49,14 +51,15 @@ in Blender's internal python console. Open this path and then clone the repo.
 ```bash
   bpy.utils.user_resource('SCRIPTS', "addons")
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rajdeepadak/Blender-Sphere-Plugin/blob/master/Images/addonpath.png)
 
 Inside Blender go to:
 Edit -> Preferences -> Add-ons 
 Search "Sphere Plugin" in search box in the Add- ons and enable the checkbox.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rajdeepadak/Blender-Sphere-Plugin/blob/master/Images/addon_install.png)
 
-To view and use the Add-on, press n with the cursor in 3D viewport or left click side arrow to view sidebar. An add-on named "Sphere Plugin" will be added along with the other options (View, Tool, Item) in the Viewport Sidebar as shown below.
+To view and use the Add-on, press n with the cursor in 3D viewport or left click side arrow to view sidebar. 
+An add-on named "Sphere Plugin" will be added along with the other options (View, Tool, Item) in the Viewport Sidebar as shown below.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rajdeepadak/Blender-Sphere-Plugin/blob/master/Images/addon.png)
